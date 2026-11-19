@@ -8,7 +8,7 @@
   <a href="https://github.com/Ozgeayd">
     <img src="https://img.shields.io/badge/GitHub-Ozgeayd-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/%C3%B6zge-ayd%C4%B1n-a63a58302/">
     <img src="https://img.shields.io/badge/LinkedIn-Özge%20Aydın-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
