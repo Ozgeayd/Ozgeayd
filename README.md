@@ -66,6 +66,6 @@ Rather than limiting myself to a single domain, I enjoy exploring the intersecti
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="./languages.svg" alt="Languages" />
 </div>
