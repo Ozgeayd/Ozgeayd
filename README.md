@@ -5,7 +5,6 @@
 
 <!-- Profil Sayacı & Sosyal Medya -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ozgeayd&label=PROFILE%20VIEWS&color=7e22ce&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/Ozgeayd">
     <img src="https://img.shields.io/badge/GitHub-Ozgeayd-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -68,5 +67,5 @@ Rather than limiting myself to a single domain, I enjoy exploring the intersecti
 </p>
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=520&h=110&bkg=%231a1b27&c=%7Btype%3A'horizontalBar'%2Cdata%3A%7Blabels%3A%5B''%5D%2Cdatasets%3A%5B%7Blabel%3A'Python%2040%25'%2Cdata%3A%5B40%5D%2CbackgroundColor%3A'%233572A5'%7D%2C%7Blabel%3A'Kotlin%2020%25'%2Cdata%3A%5B20%5D%2CbackgroundColor%3A'%23A97BFF'%7D%2C%7Blabel%3A'C%23%2010%25'%2Cdata%3A%5B10%5D%2CbackgroundColor%3A'%23178600'%7D%2C%7Blabel%3A'JS%2010%25'%2Cdata%3A%5B10%5D%2CbackgroundColor%3A'%23f1e05a'%7D%2C%7Blabel%3A'HTML5%2010%25'%2Cdata%3A%5B10%5D%2CbackgroundColor%3A'%23e34c26'%7D%2C%7Blabel%3A'CSS3%2010%25'%2Cdata%3A%5B10%5D%2CbackgroundColor%3A'%23563d7c'%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A'bottom'%2Clabels%3A%7BfontColor%3A'%23c0caf5'%2CboxWidth%3A10%2Cpadding%3A12%7D%7D%2Cscales%3A%7BxAxes%3A%5B%7Bstacked%3Atrue%2Cdisplay%3Afalse%2Cticks%3A%7Bmax%3A100%7D%7D%5D%2CyAxes%3A%5B%7Bstacked%3Atrue%2Cdisplay%3Afalse%7D%5D%7D%7D%7D" alt="Language Distribution" />
+  <img src="./languages.svg" alt="Languages" />
 </div>
