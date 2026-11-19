@@ -1,6 +1,6 @@
-<!-- Üst Banner (Dinamik Mor Dalga & Yazı Efekti) -->
+<!-- Üst Banner (Sorunsuz Çalışan Mor Yazı & Kod Animasyonu) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6b21a8,100:9333ea&height=210&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Computer%20Engineering%20Student%20%7C%20AI%20%26%20Mobile%20Systems&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=90&lines=Welcome+to+my+profile!+%F0%9F%91%8B;Senior+Computer+Engineering+Student;AI+%26+Mobile+Systems+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Profil Sayacı & Sosyal Medya -->
@@ -9,8 +9,7 @@
   <a href="https://github.com/Ozgeayd">
     <img src="https://img.shields.io/badge/GitHub-Ozgeayd-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <!-- LinkedIn veya E-posta adresini aşağıdaki # yerine ekleyebilirsin -->
-  <a href="https://www.linkedin.com/in/%C3%B6zge-ayd%C4%B1n-a63a58302/">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Özge%20Aydın-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
@@ -36,7 +35,7 @@ Rather than limiting myself to a single domain, I enjoy exploring the intersecti
   <!-- Languages -->
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br/>
   <!-- AI, Computer Vision & Vector DB -->
@@ -65,8 +64,8 @@ Rather than limiting myself to a single domain, I enjoy exploring the intersecti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ozgeaydn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgeaydn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ozgeayd&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgeayd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="43%" />
 </div>
 
 <br/>
